@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <router-view></router-view>
   </div>
 </template>
@@ -9,7 +8,7 @@
 
 
 export default {
-  name: 'App',
+  name: 'App'
  
 }
 </script>
